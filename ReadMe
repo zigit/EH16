@@ -1,0 +1,14 @@
+Team LMK 
+Ericsson Automotive Hackathon February 13 2016
+
+A simple and basic implementation of an application that provides the framework for the implementation 
+of real-time statistics of simulated Vehicle(s) provided by Ericsson. The idea is to view a friends's vehicle statistics such as 
+distance left to an agreed meeting point in real-time on a Google Map.
+
+Currently, only two markers exist. The Home point or the meeting point and 1 vehicle. However, it is simple to add multiple vehicles 
+or markers on the map.
+
+Additionally, it is easy to implement what statistics you want to view such as distance, time, general car info 
+using the Ericsson resources provided along with the Google API.
+
+Copyright Team LMK
