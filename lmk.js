@@ -1,4 +1,4 @@
-var appId = 'AIzaSyC5OBoKIt75SzmcU8PBRJ96o5aYMsI3_vg';
+var appId = '64e8c812-1abd-49c6-9db8-c7d25f0e1992';
 
 var homePoint = { lat: 57.653284, lng: 11.896307 };
 
